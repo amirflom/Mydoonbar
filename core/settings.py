@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-kfyhn)qbefl6w33bo$pnlji&7v^vw)#8wkq&py_(s*n#*#obsw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'mydoonbar.onrender.com'
+    'mydoonbar.com'
+    'www.mydoonbar.com'
+]
 
 
 # Application definition
