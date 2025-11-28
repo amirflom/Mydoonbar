@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-kfyhn)qbefl6w33bo$pnlji&7v^vw)#8wkq&py_(s*n#*#obsw
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'mydoonbar.onrender.com'
-    'mydoonbar.com'
+    'mydoonbar.onrender.com',
+    'mydoonbar.com',
     'www.mydoonbar.com'
 ]
 
